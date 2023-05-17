@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yopho-restaurant/static/css/main.872c8af4.css",
+    "main.js": "/yopho-restaurant/static/js/main.b42f9dd0.js",
+    "static/media/bg.png": "/yopho-restaurant/static/media/bg.51b1e69cded5efe1b202.png",
+    "static/media/body-bg-pattern.png": "/yopho-restaurant/static/media/body-bg-pattern.6c31ed84fb390068021b.png",
+    "static/media/plate.png": "/yopho-restaurant/static/media/plate.5d6e0d24ec56ec8fd81f.png",
+    "static/media/chef.png": "/yopho-restaurant/static/media/chef.3846ab02a63d213c11a4.png",
+    "static/media/bg.jpg": "/yopho-restaurant/static/media/bg.95b5a2070302880bebd9.jpg",
+    "static/media/YoPho-Logo.png": "/yopho-restaurant/static/media/YoPho-Logo.c56378b3bdbaa749293c.png",
+    "static/media/1.jpg": "/yopho-restaurant/static/media/1.49339330a05458cbe248.jpg",
+    "static/media/2.jpg": "/yopho-restaurant/static/media/2.6025e16111857859be5b.jpg",
+    "static/media/4.jpg": "/yopho-restaurant/static/media/4.8eb755589de489b61894.jpg",
+    "static/media/3.jpg": "/yopho-restaurant/static/media/3.cdbc09512c608236dbdc.jpg",
+    "static/media/avatar1.png": "/yopho-restaurant/static/media/avatar1.27a81bcea579cdc1cf92.png",
+    "static/media/avatar3.png": "/yopho-restaurant/static/media/avatar3.fe5de891cf00cdb0534c.png",
+    "static/media/avatar2.png": "/yopho-restaurant/static/media/avatar2.e728d8a774b3109f5951.png",
+    "index.html": "/yopho-restaurant/index.html",
+    "static/media/arrow-left.svg": "/yopho-restaurant/static/media/arrow-left.77d5a5d78b1b76ce16f3.svg",
+    "static/media/arrow-right.svg": "/yopho-restaurant/static/media/arrow-right.c331d5c20dca215affc8.svg",
+    "main.872c8af4.css.map": "/yopho-restaurant/static/css/main.872c8af4.css.map",
+    "main.b42f9dd0.js.map": "/yopho-restaurant/static/js/main.b42f9dd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872c8af4.css",
+    "static/js/main.b42f9dd0.js"
+  ]
+}
